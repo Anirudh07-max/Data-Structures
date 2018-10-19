@@ -22,5 +22,3 @@ Week 4:
 1_ Binary Tree Traversal
 2_ Is BST
 3_ Is BST with equal key values
-4_ Set with Range sums
-5_ Rope DS
